@@ -1,5 +1,5 @@
 # OperationSpan_modified
- This is a modified version of Operation Span (one of the complexSpan tasks)
+ This is a modified builder version of Operation Span (one of the complexSpan tasks) using version 2023.2.3
 
 In this version, we change the letter memory task to the number memory task so the whole working memory test is *only about numbers*, and will be suitable for participants from all linguistic backgrounds (just need to change the instruction language to be applied)
 
