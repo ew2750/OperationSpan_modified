@@ -1,0 +1,1302 @@
+3.6625 	ERROR 	Support for the `sounddevice` audio backend is not available this session. Please install `psychopy-sounddevice` and restart the session to enable support.
+10.4065 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1470, 956]. Using actual size
+11.9591 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+11.9611 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fd363f66040>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fd37249e9a0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fd37249eee0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fd373805640>, multiSample=False, name='window1', numSamples=2, pos=[367.5, 239.0], screen=0, size=array([2940, 1912]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+11.9696 	EXP 	window1: mouseVisible = True
+11.9696 	EXP 	window1: backgroundImage = ''
+11.9697 	EXP 	window1: backgroundFit = 'none'
+11.9725 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+11.9725 	EXP 	window1: recordFrameIntervals = False
+12.0536 	EXP 	window1: recordFrameIntervals = True
+12.8924 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+12.8933 	EXP 	window1: mouseVisible = False
+16.8085 	EXP 	test_final: status = STARTED
+16.8136 	EXP 	window1: mouseVisible = True
+16.8825 	EXP 	Created instructions_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.08, italic=False, languageStyle='LTR', name='instructions_2', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+16.8870 	EXP 	window1: mouseVisible = True
+16.8886 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.2, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+16.8923 	EXP 	window1: mouseVisible = True
+16.8937 	EXP 	Created text_feedback = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.15, italic=False, languageStyle='LTR', name='text_feedback', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+16.8973 	EXP 	window1: mouseVisible = True
+16.8987 	EXP 	Created instructions_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='instructions_3', opacity=1.0, ori=0, pos=array([0.  , 0.25]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+16.9024 	EXP 	window1: mouseVisible = True
+16.9244 	EXP 	Created instructions = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='instructions', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+16.9284 	EXP 	window1: mouseVisible = True
+16.9297 	EXP 	Created operation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='operation', opacity=1.0, ori=0, pos=array([0. , 0.2]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+16.9332 	EXP 	window1: mouseVisible = True
+16.9344 	EXP 	Created operation_feedback = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='operation_feedback', opacity=1.0, ori=0, pos=array([ 0.  , -0.25]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+16.9380 	EXP 	window1: mouseVisible = True
+16.9392 	EXP 	Created instructions_8 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='instructions_8', opacity=1.0, ori=0, pos=array([ 0. , -0.2]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+16.9429 	EXP 	window1: mouseVisible = True
+16.9440 	EXP 	Created feedback_msg = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='feedback_msg', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+16.9476 	EXP 	window1: mouseVisible = True
+16.9487 	EXP 	Created feedback_msg_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='feedback_msg_2', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+16.9521 	EXP 	window1: mouseVisible = True
+16.9690 	EXP 	Created instructions_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='instructions_4', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+16.9727 	EXP 	window1: mouseVisible = True
+16.9739 	EXP 	Created operation_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='operation_3', opacity=1.0, ori=0, pos=array([0. , 0.2]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+16.9775 	EXP 	window1: mouseVisible = True
+16.9787 	EXP 	Created operation_feedback_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='operation_feedback_2', opacity=1.0, ori=0, pos=array([ 0.  , -0.25]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+16.9824 	EXP 	window1: mouseVisible = True
+16.9836 	EXP 	Created instructions_9 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='instructions_9', opacity=1.0, ori=0, pos=array([ 0. , -0.2]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+16.9871 	EXP 	window1: mouseVisible = True
+16.9883 	EXP 	Created feedback_msg_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='feedback_msg_4', opacity=1.0, ori=0, pos=array([ 0. , -0.2]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+16.9918 	EXP 	window1: mouseVisible = True
+16.9930 	EXP 	Created operation_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='operation_4', opacity=1.0, ori=0, pos=array([0. , 0.2]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+16.9965 	EXP 	window1: mouseVisible = True
+16.9976 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.2, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+17.0011 	EXP 	window1: mouseVisible = True
+17.0023 	EXP 	Created text_feedback_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.15, italic=False, languageStyle='LTR', name='text_feedback_3', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+17.0057 	EXP 	window1: mouseVisible = True
+17.0069 	EXP 	Created instructions_6 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='instructions_6', opacity=1.0, ori=0, pos=array([0.  , 0.25]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+17.0103 	EXP 	window1: mouseVisible = True
+17.0114 	EXP 	Created feedback_msg_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='feedback_msg_3', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+17.0149 	EXP 	window1: mouseVisible = True
+17.0335 	EXP 	Created instructions_7 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='instructions_7', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+17.0372 	EXP 	window1: mouseVisible = True
+17.0385 	EXP 	Created operation_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='operation_2', opacity=1.0, ori=0, pos=array([0. , 0.2]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+17.0420 	EXP 	window1: mouseVisible = True
+17.0431 	EXP 	Created operation_feedback_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='operation_feedback_3', opacity=1.0, ori=0, pos=array([ 0.  , -0.25]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+17.0467 	EXP 	window1: mouseVisible = True
+17.0478 	EXP 	Created instructions_10 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='instructions_10', opacity=1.0, ori=0, pos=array([ 0. , -0.2]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+17.0514 	EXP 	window1: mouseVisible = True
+17.0526 	EXP 	Created feedback_msg_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='feedback_msg_5', opacity=1.0, ori=0, pos=array([ 0. , -0.2]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+17.0561 	EXP 	window1: mouseVisible = True
+17.0572 	EXP 	Created operation_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='operation_5', opacity=1.0, ori=0, pos=array([0. , 0.2]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+17.0607 	EXP 	window1: mouseVisible = True
+17.0619 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.2, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+17.0654 	EXP 	window1: mouseVisible = True
+17.0665 	EXP 	Created text_feedback_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.15, italic=False, languageStyle='LTR', name='text_feedback_2', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+17.0700 	EXP 	window1: mouseVisible = True
+17.0712 	EXP 	Created instructions_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='instructions_5', opacity=1.0, ori=0, pos=array([0.  , 0.25]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+17.0746 	EXP 	window1: mouseVisible = True
+17.0890 	EXP 	Created finish = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='finish', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+0.5009 	EXP 	instructions_2: autoDraw = True
+7.7512 	EXP 	Created sequence: random, trialTypes=1, nReps=999, seed=None
+7.7552 	EXP 	New trial (rep=0, index=0): None
+7.7554 	EXP 	Created sequence: random, trialTypes=1, nReps=2, seed=None
+7.7555 	EXP 	New trial (rep=0, index=0): None
+7.7924 	DATA 	Keypress: space
+7.8057 	WARNING 	t of last frame was 120.16ms (=1/8)
+7.8057 	EXP 	instructions_2: autoDraw = False
+7.8057 	EXP 	text_2: height = 0.2
+7.8057 	EXP 	text_2: height = 0.2
+7.8057 	EXP 	text_2: height = 0.2
+7.8057 	EXP 	text_2: text = 'V'
+8.4701 	WARNING 	t of last frame was 239.15ms (=1/4)
+8.4701 	EXP 	text_2: autoDraw = True
+9.0480 	EXP 	New trial (rep=1, index=0): None
+9.0574 	EXP 	text_2: autoDraw = False
+9.0574 	EXP 	text_2: height = 0.2
+9.0574 	EXP 	text_2: height = 0.2
+9.0574 	EXP 	text_2: height = 0.2
+9.0574 	EXP 	text_2: text = 'S'
+9.5401 	EXP 	text_2: autoDraw = True
+10.3442 	EXP 	text_2: autoDraw = False
+10.3442 	EXP 	text_2: autoDraw = False
+10.3442 	EXP 	instructions_3: height = 0.1
+10.3442 	EXP 	instructions_3: height = 0.1
+10.3442 	EXP 	instructions_3: height = 0.1
+10.3442 	EXP 	instructions_3: text = 'Answer and press enter.'
+10.8428 	EXP 	text_feedback: autoDraw = True
+10.8428 	EXP 	instructions_3: autoDraw = True
+10.8428 	EXP 	text_feedback: height = 0.15
+10.8428 	EXP 	text_feedback: height = 0.15
+10.8428 	EXP 	text_feedback: height = 0.15
+10.8428 	EXP 	text_feedback: text = ''
+11.6974 	WARNING 	t of last frame was 22.34ms (=1/44)
+12.2206 	DATA 	Keypress: v
+12.7582 	WARNING 	t of last frame was 22.69ms (=1/44)
+12.8207 	DATA 	Keypress: s
+14.6926 	EXP 	New trial (rep=1, index=0): None
+14.6930 	EXP 	Created sequence: random, trialTypes=1, nReps=2, seed=None
+14.6932 	EXP 	New trial (rep=0, index=0): None
+14.6983 	DATA 	Keypress: return
+14.7025 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+14.7024 	EXP 	text_feedback: autoDraw = False
+14.7024 	EXP 	instructions_3: autoDraw = False
+14.7024 	EXP 	text_2: height = 0.2
+14.7024 	EXP 	text_2: height = 0.2
+14.7024 	EXP 	text_2: height = 0.2
+14.7024 	EXP 	text_2: text = 'L'
+15.1901 	EXP 	text_2: autoDraw = True
+15.9822 	EXP 	New trial (rep=1, index=0): None
+15.9899 	EXP 	text_2: autoDraw = False
+15.9899 	EXP 	text_2: autoDraw = False
+15.9899 	EXP 	text_2: height = 0.2
+15.9899 	EXP 	text_2: height = 0.2
+15.9899 	EXP 	text_2: height = 0.2
+15.9899 	EXP 	text_2: text = 'S'
+16.4900 	EXP 	text_2: autoDraw = True
+17.2852 	EXP 	text_2: autoDraw = False
+17.2852 	EXP 	text_2: autoDraw = False
+17.2852 	EXP 	instructions_3: text = 'Answer and press enter.'
+17.7918 	EXP 	text_feedback: autoDraw = True
+17.7918 	EXP 	instructions_3: autoDraw = True
+18.6917 	DATA 	Keypress: l
+19.3649 	DATA 	Keypress: s
+20.1428 	EXP 	New trial (rep=2, index=0): None
+20.1433 	EXP 	Created sequence: random, trialTypes=1, nReps=3, seed=None
+20.1434 	EXP 	New trial (rep=0, index=0): None
+20.1450 	DATA 	Keypress: return
+20.1510 	EXP 	text_feedback: autoDraw = False
+20.1510 	EXP 	instructions_3: autoDraw = False
+20.1510 	EXP 	text_2: text = 'S'
+20.6395 	EXP 	text_2: autoDraw = True
+21.4323 	EXP 	New trial (rep=1, index=0): None
+21.4404 	EXP 	text_2: autoDraw = False
+21.4404 	EXP 	text_2: autoDraw = False
+21.4404 	EXP 	text_2: height = 0.2
+21.4404 	EXP 	text_2: height = 0.2
+21.4404 	EXP 	text_2: height = 0.2
+21.4404 	EXP 	text_2: text = 'V'
+21.9398 	EXP 	text_2: autoDraw = True
+22.7312 	EXP 	New trial (rep=2, index=0): None
+22.7399 	EXP 	text_2: autoDraw = False
+22.7399 	EXP 	text_2: autoDraw = False
+22.7399 	EXP 	text_2: height = 0.2
+22.7399 	EXP 	text_2: height = 0.2
+22.7399 	EXP 	text_2: height = 0.2
+22.7399 	EXP 	text_2: text = 'R'
+23.2397 	EXP 	text_2: autoDraw = True
+24.0337 	EXP 	text_2: autoDraw = False
+24.0337 	EXP 	text_2: autoDraw = False
+24.0337 	EXP 	instructions_3: text = 'Answer and press enter.'
+24.5423 	EXP 	text_feedback: autoDraw = True
+24.5423 	EXP 	instructions_3: autoDraw = True
+25.0853 	DATA 	Keypress: s
+25.8583 	DATA 	Keypress: v
+26.8837 	DATA 	Keypress: r
+27.5989 	EXP 	New trial (rep=3, index=0): None
+27.5992 	EXP 	Created sequence: random, trialTypes=1, nReps=3, seed=None
+27.5994 	EXP 	New trial (rep=0, index=0): None
+27.6039 	DATA 	Keypress: return
+27.6085 	EXP 	text_feedback: autoDraw = False
+27.6085 	EXP 	instructions_3: autoDraw = False
+27.6085 	EXP 	text_2: height = 0.2
+27.6085 	EXP 	text_2: height = 0.2
+27.6085 	EXP 	text_2: height = 0.2
+27.6085 	EXP 	text_2: text = 'X'
+28.0900 	EXP 	text_2: autoDraw = True
+28.8816 	EXP 	New trial (rep=1, index=0): None
+28.8910 	EXP 	text_2: autoDraw = False
+28.8910 	EXP 	text_2: autoDraw = False
+28.8910 	EXP 	text_2: height = 0.2
+28.8910 	EXP 	text_2: height = 0.2
+28.8910 	EXP 	text_2: height = 0.2
+28.8910 	EXP 	text_2: text = 'J'
+29.3893 	EXP 	text_2: autoDraw = True
+30.1736 	EXP 	New trial (rep=2, index=0): None
+30.1838 	EXP 	text_2: autoDraw = False
+30.1838 	EXP 	text_2: autoDraw = False
+30.1838 	EXP 	text_2: height = 0.2
+30.1838 	EXP 	text_2: height = 0.2
+30.1838 	EXP 	text_2: height = 0.2
+30.1838 	EXP 	text_2: text = 'V'
+30.6891 	EXP 	text_2: autoDraw = True
+31.4865 	EXP 	text_2: autoDraw = False
+31.4865 	EXP 	text_2: autoDraw = False
+31.4865 	EXP 	instructions_3: text = 'Answer and press enter.'
+31.9880 	EXP 	text_feedback: autoDraw = True
+31.9880 	EXP 	instructions_3: autoDraw = True
+33.0419 	DATA 	Keypress: x
+33.7674 	DATA 	Keypress: j
+34.1079 	DATA 	Keypress: v
+35.2164 	EXP 	New trial (rep=4, index=0): None
+35.2168 	EXP 	Created sequence: random, trialTypes=1, nReps=4, seed=None
+35.2170 	EXP 	New trial (rep=0, index=0): None
+35.2200 	DATA 	Keypress: return
+35.2246 	EXP 	text_feedback: autoDraw = False
+35.2246 	EXP 	instructions_3: autoDraw = False
+35.2246 	EXP 	text_2: height = 0.2
+35.2246 	EXP 	text_2: height = 0.2
+35.2246 	EXP 	text_2: height = 0.2
+35.2246 	EXP 	text_2: text = 'X'
+35.7067 	EXP 	text_2: autoDraw = True
+36.4984 	EXP 	New trial (rep=1, index=0): None
+36.5057 	EXP 	text_2: autoDraw = False
+36.5057 	EXP 	text_2: autoDraw = False
+36.5057 	EXP 	text_2: height = 0.2
+36.5057 	EXP 	text_2: height = 0.2
+36.5057 	EXP 	text_2: height = 0.2
+36.5057 	EXP 	text_2: text = 'V'
+37.0066 	EXP 	text_2: autoDraw = True
+37.7980 	EXP 	New trial (rep=2, index=0): None
+37.8073 	EXP 	text_2: autoDraw = False
+37.8073 	EXP 	text_2: autoDraw = False
+37.8073 	EXP 	text_2: height = 0.2
+37.8073 	EXP 	text_2: height = 0.2
+37.8073 	EXP 	text_2: height = 0.2
+37.8073 	EXP 	text_2: text = 'K'
+38.3064 	EXP 	text_2: autoDraw = True
+39.0981 	EXP 	New trial (rep=3, index=0): None
+39.1072 	EXP 	text_2: autoDraw = False
+39.1072 	EXP 	text_2: autoDraw = False
+39.1072 	EXP 	text_2: height = 0.2
+39.1072 	EXP 	text_2: height = 0.2
+39.1072 	EXP 	text_2: height = 0.2
+39.1072 	EXP 	text_2: text = 'T'
+39.6059 	EXP 	text_2: autoDraw = True
+40.4010 	EXP 	text_2: autoDraw = False
+40.4010 	EXP 	text_2: autoDraw = False
+40.4010 	EXP 	instructions_3: text = 'Answer and press enter.'
+40.9082 	EXP 	text_feedback: autoDraw = True
+40.9082 	EXP 	instructions_3: autoDraw = True
+42.4169 	DATA 	Keypress: x
+43.5246 	DATA 	Keypress: v
+44.7685 	DATA 	Keypress: j
+45.0910 	DATA 	Keypress: t
+47.7759 	EXP 	New trial (rep=5, index=0): None
+47.7764 	EXP 	Created sequence: random, trialTypes=1, nReps=4, seed=None
+47.7766 	EXP 	New trial (rep=0, index=0): None
+47.7817 	DATA 	Keypress: return
+47.7860 	EXP 	text_feedback: autoDraw = False
+47.7860 	EXP 	instructions_3: autoDraw = False
+47.7860 	EXP 	text_2: height = 0.2
+47.7860 	EXP 	text_2: height = 0.2
+47.7860 	EXP 	text_2: height = 0.2
+47.7860 	EXP 	text_2: text = 'N'
+48.2722 	EXP 	text_2: autoDraw = True
+49.0651 	EXP 	New trial (rep=1, index=0): None
+49.0727 	EXP 	text_2: autoDraw = False
+49.0727 	EXP 	text_2: autoDraw = False
+49.0727 	EXP 	text_2: height = 0.2
+49.0727 	EXP 	text_2: height = 0.2
+49.0727 	EXP 	text_2: height = 0.2
+49.0727 	EXP 	text_2: text = 'L'
+49.5728 	EXP 	text_2: autoDraw = True
+50.3644 	EXP 	New trial (rep=2, index=0): None
+50.3725 	EXP 	text_2: autoDraw = False
+50.3725 	EXP 	text_2: autoDraw = False
+50.3725 	EXP 	text_2: height = 0.2
+50.3725 	EXP 	text_2: height = 0.2
+50.3725 	EXP 	text_2: height = 0.2
+50.3725 	EXP 	text_2: text = 'S'
+50.8727 	EXP 	text_2: autoDraw = True
+51.6646 	EXP 	New trial (rep=3, index=0): None
+51.6758 	EXP 	text_2: autoDraw = False
+51.6758 	EXP 	text_2: autoDraw = False
+51.6758 	EXP 	text_2: height = 0.2
+51.6758 	EXP 	text_2: height = 0.2
+51.6758 	EXP 	text_2: height = 0.2
+51.6758 	EXP 	text_2: text = 'Q'
+52.1727 	EXP 	text_2: autoDraw = True
+52.9690 	EXP 	text_2: autoDraw = False
+52.9690 	EXP 	text_2: autoDraw = False
+52.9690 	EXP 	instructions_3: text = 'Answer and press enter.'
+53.4741 	EXP 	text_feedback: autoDraw = True
+53.4741 	EXP 	instructions_3: autoDraw = True
+54.4357 	DATA 	Keypress: m
+54.5839 	DATA 	Keypress: m
+54.7175 	DATA 	Keypress: m
+54.8683 	DATA 	Keypress: m
+55.5488 	EXP 	New trial (rep=6, index=0): None
+55.5491 	EXP 	Created sequence: random, trialTypes=1, nReps=4, seed=None
+55.5492 	EXP 	New trial (rep=0, index=0): None
+55.5533 	DATA 	Keypress: return
+55.5574 	EXP 	text_feedback: autoDraw = False
+55.5574 	EXP 	instructions_3: autoDraw = False
+55.5574 	EXP 	text_2: height = 0.2
+55.5574 	EXP 	text_2: height = 0.2
+55.5574 	EXP 	text_2: height = 0.2
+55.5574 	EXP 	text_2: text = 'H'
+56.0394 	EXP 	text_2: autoDraw = True
+56.8317 	EXP 	New trial (rep=1, index=0): None
+56.8394 	EXP 	text_2: autoDraw = False
+56.8394 	EXP 	text_2: autoDraw = False
+56.8394 	EXP 	text_2: height = 0.2
+56.8394 	EXP 	text_2: height = 0.2
+56.8394 	EXP 	text_2: height = 0.2
+56.8394 	EXP 	text_2: text = 'Q'
+57.3383 	EXP 	text_2: autoDraw = True
+58.1319 	EXP 	New trial (rep=2, index=0): None
+58.1406 	EXP 	text_2: autoDraw = False
+58.1406 	EXP 	text_2: autoDraw = False
+58.1406 	EXP 	text_2: height = 0.2
+58.1406 	EXP 	text_2: height = 0.2
+58.1406 	EXP 	text_2: height = 0.2
+58.1406 	EXP 	text_2: text = 'R'
+58.6396 	EXP 	text_2: autoDraw = True
+59.4310 	EXP 	New trial (rep=3, index=0): None
+59.4381 	EXP 	text_2: autoDraw = False
+59.4381 	EXP 	text_2: autoDraw = False
+59.4381 	EXP 	text_2: height = 0.2
+59.4381 	EXP 	text_2: height = 0.2
+59.4381 	EXP 	text_2: height = 0.2
+59.4381 	EXP 	text_2: text = 'V'
+59.9391 	EXP 	text_2: autoDraw = True
+60.7351 	EXP 	text_2: autoDraw = False
+60.7351 	EXP 	text_2: autoDraw = False
+60.7351 	EXP 	instructions_3: text = 'Answer and press enter.'
+61.2408 	EXP 	text_feedback: autoDraw = True
+61.2408 	EXP 	instructions_3: autoDraw = True
+63.3245 	DATA 	Keypress: e
+63.3260 	DATA 	Keypress: d
+63.4909 	DATA 	Keypress: d
+63.6572 	DATA 	Keypress: d
+64.4975 	DATA 	Keypress: return
+64.5012 	EXP 	text_feedback: autoDraw = False
+64.5012 	EXP 	instructions_3: autoDraw = False
+64.9894 	EXP 	instructions: autoDraw = True
+78.8820 	EXP 	Created sequence: random, trialTypes=1, nReps=999, seed=None
+78.8865 	EXP 	New trial (rep=0, index=0): None
+78.9119 	EXP 	Imported ../materials/processing_only_2.xlsx as conditions, 15 conditions, 4 params
+78.9130 	EXP 	Created sequence: random, trialTypes=15, nReps=1, seed=None
+78.9132 	EXP 	New trial (rep=0, index=0): {'Task': 'Practice', 'Trial': 5, 'Problem': '(3/3) + 2', 'Operation_answer': 3}
+78.9259 	DATA 	Keypress: space
+78.9314 	EXP 	instructions: autoDraw = False
+78.9314 	EXP 	operation: height = 0.1
+78.9314 	EXP 	operation: height = 0.1
+78.9314 	EXP 	operation: height = 0.1
+78.9314 	EXP 	operation: text = '(3/3) + 2'
+78.9314 	EXP 	instructions_8: height = 0.1
+78.9314 	EXP 	instructions_8: height = 0.1
+78.9314 	EXP 	instructions_8: height = 0.1
+78.9314 	EXP 	instructions_8: text = 'Answer?'
+79.3770 	EXP 	operation: autoDraw = True
+79.3770 	EXP 	operation_feedback: autoDraw = True
+79.3770 	EXP 	instructions_8: autoDraw = True
+79.3770 	EXP 	operation_feedback: height = 0.1
+79.3770 	EXP 	operation_feedback: height = 0.1
+79.3770 	EXP 	operation_feedback: height = 0.1
+79.3770 	EXP 	operation_feedback: text = ''
+81.5101 	DATA 	Keypress: 3
+81.5150 	EXP 	operation: autoDraw = False
+81.5150 	EXP 	operation_feedback: autoDraw = False
+81.5150 	EXP 	instructions_8: autoDraw = False
+81.5150 	EXP 	feedback_msg: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+81.5150 	EXP 	feedback_msg: height = 0.1
+81.5150 	EXP 	feedback_msg: height = 0.1
+81.5150 	EXP 	feedback_msg: height = 0.1
+81.5150 	EXP 	feedback_msg: text = 'Correct! \nScore = 6.7%'
+81.9907 	EXP 	feedback_msg: autoDraw = True
+82.9809 	EXP 	New trial (rep=0, index=1): {'Task': 'Practice', 'Trial': 13, 'Problem': '(3x8) - 19 ', 'Operation_answer': 5}
+82.9945 	EXP 	feedback_msg: autoDraw = False
+82.9945 	EXP 	feedback_msg: autoDraw = False
+82.9945 	EXP 	operation: height = 0.1
+82.9945 	EXP 	operation: height = 0.1
+82.9945 	EXP 	operation: height = 0.1
+82.9945 	EXP 	operation: text = '(3x8) - 19 '
+82.9945 	EXP 	instructions_8: text = 'Answer?'
+83.4933 	EXP 	operation: autoDraw = True
+83.4933 	EXP 	operation_feedback: autoDraw = True
+83.4933 	EXP 	instructions_8: autoDraw = True
+87.0681 	DATA 	Keypress: minus
+87.4073 	DATA 	Keypress: 1
+87.4119 	EXP 	operation: autoDraw = False
+87.4119 	EXP 	operation_feedback: autoDraw = False
+87.4119 	EXP 	instructions_8: autoDraw = False
+87.4119 	EXP 	feedback_msg: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+87.4119 	EXP 	feedback_msg: height = 0.1
+87.4119 	EXP 	feedback_msg: height = 0.1
+87.4119 	EXP 	feedback_msg: height = 0.1
+87.4119 	EXP 	feedback_msg: text = 'Oops! That was wrong \nScore = 6.7%'
+87.8960 	EXP 	feedback_msg: autoDraw = True
+88.8794 	EXP 	New trial (rep=0, index=2): {'Task': 'Practice', 'Trial': 3, 'Problem': '(7x2) - 5', 'Operation_answer': 9}
+88.8894 	EXP 	feedback_msg: autoDraw = False
+88.8894 	EXP 	feedback_msg: autoDraw = False
+88.8894 	EXP 	operation: height = 0.1
+88.8894 	EXP 	operation: height = 0.1
+88.8894 	EXP 	operation: height = 0.1
+88.8894 	EXP 	operation: text = '(7x2) - 5'
+88.8894 	EXP 	instructions_8: text = 'Answer?'
+89.4129 	EXP 	operation: autoDraw = True
+89.4129 	EXP 	operation_feedback: autoDraw = True
+89.4129 	EXP 	instructions_8: autoDraw = True
+91.8879 	DATA 	Keypress: 9
+91.8927 	EXP 	operation: autoDraw = False
+91.8927 	EXP 	operation_feedback: autoDraw = False
+91.8927 	EXP 	instructions_8: autoDraw = False
+91.8927 	EXP 	feedback_msg: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+91.8927 	EXP 	feedback_msg: height = 0.1
+91.8927 	EXP 	feedback_msg: height = 0.1
+91.8927 	EXP 	feedback_msg: height = 0.1
+91.8927 	EXP 	feedback_msg: text = 'Correct! \nScore = 13.3%'
+92.3730 	EXP 	feedback_msg: autoDraw = True
+93.3656 	EXP 	New trial (rep=0, index=3): {'Task': 'Practice', 'Trial': 12, 'Problem': '(8/2) + 4', 'Operation_answer': 8}
+93.3801 	EXP 	feedback_msg: autoDraw = False
+93.3801 	EXP 	feedback_msg: autoDraw = False
+93.3801 	EXP 	operation: height = 0.1
+93.3801 	EXP 	operation: height = 0.1
+93.3801 	EXP 	operation: height = 0.1
+93.3801 	EXP 	operation: text = '(8/2) + 4'
+93.3801 	EXP 	instructions_8: text = 'Answer?'
+93.8746 	EXP 	operation: autoDraw = True
+93.8746 	EXP 	operation_feedback: autoDraw = True
+93.8746 	EXP 	instructions_8: autoDraw = True
+96.0550 	DATA 	Keypress: 8
+96.0599 	EXP 	operation: autoDraw = False
+96.0599 	EXP 	operation_feedback: autoDraw = False
+96.0599 	EXP 	instructions_8: autoDraw = False
+96.0599 	EXP 	feedback_msg: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+96.0599 	EXP 	feedback_msg: height = 0.1
+96.0599 	EXP 	feedback_msg: height = 0.1
+96.0599 	EXP 	feedback_msg: height = 0.1
+96.0599 	EXP 	feedback_msg: text = 'Correct! \nScore = 20.0%'
+96.5398 	EXP 	feedback_msg: autoDraw = True
+97.5304 	EXP 	New trial (rep=0, index=4): {'Task': 'Practice', 'Trial': 8, 'Problem': '(3/3) + 5', 'Operation_answer': 6}
+97.5394 	EXP 	feedback_msg: autoDraw = False
+97.5394 	EXP 	feedback_msg: autoDraw = False
+97.5394 	EXP 	operation: height = 0.1
+97.5394 	EXP 	operation: height = 0.1
+97.5394 	EXP 	operation: height = 0.1
+97.5394 	EXP 	operation: text = '(3/3) + 5'
+97.5394 	EXP 	instructions_8: text = 'Answer?'
+98.0425 	EXP 	operation: autoDraw = True
+98.0425 	EXP 	operation_feedback: autoDraw = True
+98.0425 	EXP 	instructions_8: autoDraw = True
+100.0929 	DATA 	Keypress: 6
+100.1130 	EXP 	operation: autoDraw = False
+100.1130 	EXP 	operation_feedback: autoDraw = False
+100.1130 	EXP 	instructions_8: autoDraw = False
+100.1130 	EXP 	feedback_msg: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+100.1130 	EXP 	feedback_msg: height = 0.1
+100.1130 	EXP 	feedback_msg: height = 0.1
+100.1130 	EXP 	feedback_msg: height = 0.1
+100.1130 	EXP 	feedback_msg: text = 'Correct! \nScore = 26.7%'
+100.5898 	EXP 	feedback_msg: autoDraw = True
+101.5812 	EXP 	New trial (rep=0, index=5): {'Task': 'Practice', 'Trial': 10, 'Problem': '(8/4) + 3', 'Operation_answer': 5}
+101.5909 	EXP 	feedback_msg: autoDraw = False
+101.5909 	EXP 	feedback_msg: autoDraw = False
+101.5909 	EXP 	operation: height = 0.1
+101.5909 	EXP 	operation: height = 0.1
+101.5909 	EXP 	operation: height = 0.1
+101.5909 	EXP 	operation: text = '(8/4) + 3'
+101.5909 	EXP 	instructions_8: text = 'Answer?'
+102.0803 	EXP 	operation: autoDraw = True
+102.0803 	EXP 	operation_feedback: autoDraw = True
+102.0803 	EXP 	instructions_8: autoDraw = True
+104.0687 	DATA 	Keypress: 5
+104.0727 	EXP 	operation: autoDraw = False
+104.0727 	EXP 	operation_feedback: autoDraw = False
+104.0727 	EXP 	instructions_8: autoDraw = False
+104.0727 	EXP 	feedback_msg: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+104.0727 	EXP 	feedback_msg: height = 0.1
+104.0727 	EXP 	feedback_msg: height = 0.1
+104.0727 	EXP 	feedback_msg: height = 0.1
+104.0727 	EXP 	feedback_msg: text = 'Correct! \nScore = 33.3%'
+104.5561 	EXP 	feedback_msg: autoDraw = True
+105.5474 	EXP 	New trial (rep=0, index=6): {'Task': 'Practice', 'Trial': 2, 'Problem': '(1/1) - 1', 'Operation_answer': 0}
+105.5570 	EXP 	feedback_msg: autoDraw = False
+105.5570 	EXP 	feedback_msg: autoDraw = False
+105.5570 	EXP 	operation: height = 0.1
+105.5570 	EXP 	operation: height = 0.1
+105.5570 	EXP 	operation: height = 0.1
+105.5570 	EXP 	operation: text = '(1/1) - 1'
+105.5570 	EXP 	instructions_8: text = 'Answer?'
+106.0584 	EXP 	operation: autoDraw = True
+106.0584 	EXP 	operation_feedback: autoDraw = True
+106.0584 	EXP 	instructions_8: autoDraw = True
+107.7134 	DATA 	Keypress: 0
+107.7173 	EXP 	operation: autoDraw = False
+107.7173 	EXP 	operation_feedback: autoDraw = False
+107.7173 	EXP 	instructions_8: autoDraw = False
+107.7173 	EXP 	feedback_msg: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+107.7173 	EXP 	feedback_msg: height = 0.1
+107.7173 	EXP 	feedback_msg: height = 0.1
+107.7173 	EXP 	feedback_msg: height = 0.1
+107.7173 	EXP 	feedback_msg: text = 'Correct! \nScore = 40.0%'
+108.2058 	EXP 	feedback_msg: autoDraw = True
+109.1981 	EXP 	New trial (rep=0, index=7): {'Task': 'Practice', 'Trial': 14, 'Problem': '(6/3) + 4 ', 'Operation_answer': 6}
+109.2071 	EXP 	feedback_msg: autoDraw = False
+109.2071 	EXP 	feedback_msg: autoDraw = False
+109.2071 	EXP 	operation: height = 0.1
+109.2071 	EXP 	operation: height = 0.1
+109.2071 	EXP 	operation: height = 0.1
+109.2071 	EXP 	operation: text = '(6/3) + 4 '
+109.2071 	EXP 	instructions_8: text = 'Answer?'
+109.7058 	EXP 	operation: autoDraw = True
+109.7058 	EXP 	operation_feedback: autoDraw = True
+109.7058 	EXP 	instructions_8: autoDraw = True
+111.7471 	DATA 	Keypress: 6
+111.7513 	EXP 	operation: autoDraw = False
+111.7513 	EXP 	operation_feedback: autoDraw = False
+111.7513 	EXP 	instructions_8: autoDraw = False
+111.7513 	EXP 	feedback_msg: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+111.7513 	EXP 	feedback_msg: height = 0.1
+111.7513 	EXP 	feedback_msg: height = 0.1
+111.7513 	EXP 	feedback_msg: height = 0.1
+111.7513 	EXP 	feedback_msg: text = 'Correct! \nScore = 46.7%'
+112.2297 	EXP 	feedback_msg: autoDraw = True
+113.2138 	EXP 	New trial (rep=0, index=8): {'Task': 'Practice', 'Trial': 6, 'Problem': '(2x6) - 8', 'Operation_answer': 4}
+113.2228 	EXP 	feedback_msg: autoDraw = False
+113.2228 	EXP 	feedback_msg: autoDraw = False
+113.2228 	EXP 	operation: height = 0.1
+113.2228 	EXP 	operation: height = 0.1
+113.2228 	EXP 	operation: height = 0.1
+113.2228 	EXP 	operation: text = '(2x6) - 8'
+113.2228 	EXP 	instructions_8: text = 'Answer?'
+113.7470 	EXP 	operation: autoDraw = True
+113.7470 	EXP 	operation_feedback: autoDraw = True
+113.7470 	EXP 	instructions_8: autoDraw = True
+118.5409 	DATA 	Keypress: 4
+118.5448 	EXP 	operation: autoDraw = False
+118.5448 	EXP 	operation_feedback: autoDraw = False
+118.5448 	EXP 	instructions_8: autoDraw = False
+118.5448 	EXP 	feedback_msg: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+118.5448 	EXP 	feedback_msg: height = 0.1
+118.5448 	EXP 	feedback_msg: height = 0.1
+118.5448 	EXP 	feedback_msg: height = 0.1
+118.5448 	EXP 	feedback_msg: text = 'Correct! \nScore = 53.3%'
+119.0377 	EXP 	feedback_msg: autoDraw = True
+120.0293 	EXP 	New trial (rep=0, index=9): {'Task': 'Practice', 'Trial': 11, 'Problem': '(5x3) - 7', 'Operation_answer': 8}
+120.0363 	EXP 	feedback_msg: autoDraw = False
+120.0363 	EXP 	feedback_msg: autoDraw = False
+120.0363 	EXP 	operation: height = 0.1
+120.0363 	EXP 	operation: height = 0.1
+120.0363 	EXP 	operation: height = 0.1
+120.0363 	EXP 	operation: text = '(5x3) - 7'
+120.0363 	EXP 	instructions_8: text = 'Answer?'
+120.5393 	EXP 	operation: autoDraw = True
+120.5393 	EXP 	operation_feedback: autoDraw = True
+120.5393 	EXP 	instructions_8: autoDraw = True
+121.8316 	DATA 	Keypress: b
+122.2515 	DATA 	Keypress: 5
+122.2553 	EXP 	operation: autoDraw = False
+122.2553 	EXP 	operation_feedback: autoDraw = False
+122.2553 	EXP 	instructions_8: autoDraw = False
+122.2553 	EXP 	feedback_msg: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+122.2553 	EXP 	feedback_msg: height = 0.1
+122.2553 	EXP 	feedback_msg: height = 0.1
+122.2553 	EXP 	feedback_msg: height = 0.1
+122.2553 	EXP 	feedback_msg: text = 'Oops! That was wrong \nScore = 53.3%'
+122.4492 	DATA 	Keypress: 4
+122.7363 	EXP 	feedback_msg: autoDraw = True
+123.7293 	EXP 	New trial (rep=0, index=10): {'Task': 'Practice', 'Trial': 15, 'Problem': '(9/3) - 2', 'Operation_answer': 1}
+123.7361 	EXP 	feedback_msg: autoDraw = False
+123.7361 	EXP 	feedback_msg: autoDraw = False
+123.7361 	EXP 	operation: height = 0.1
+123.7361 	EXP 	operation: height = 0.1
+123.7361 	EXP 	operation: height = 0.1
+123.7361 	EXP 	operation: text = '(9/3) - 2'
+123.7361 	EXP 	instructions_8: text = 'Answer?'
+124.2387 	EXP 	operation: autoDraw = True
+124.2387 	EXP 	operation_feedback: autoDraw = True
+124.2387 	EXP 	instructions_8: autoDraw = True
+124.8839 	DATA 	Keypress: 4
+124.8948 	EXP 	operation: autoDraw = False
+124.8948 	EXP 	operation_feedback: autoDraw = False
+124.8948 	EXP 	instructions_8: autoDraw = False
+124.8948 	EXP 	feedback_msg: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+124.8948 	EXP 	feedback_msg: text = 'Oops! That was wrong \nScore = 53.3%'
+125.3864 	EXP 	feedback_msg: autoDraw = True
+126.3792 	EXP 	New trial (rep=0, index=11): {'Task': 'Practice', 'Trial': 9, 'Problem': '(4/2) + 5', 'Operation_answer': 7}
+126.3869 	EXP 	feedback_msg: autoDraw = False
+126.3869 	EXP 	feedback_msg: autoDraw = False
+126.3869 	EXP 	operation: height = 0.1
+126.3869 	EXP 	operation: height = 0.1
+126.3869 	EXP 	operation: height = 0.1
+126.3869 	EXP 	operation: text = '(4/2) + 5'
+126.3869 	EXP 	instructions_8: text = 'Answer?'
+126.8887 	EXP 	operation: autoDraw = True
+126.8887 	EXP 	operation_feedback: autoDraw = True
+126.8887 	EXP 	instructions_8: autoDraw = True
+128.8353 	DATA 	Keypress: 7
+128.8389 	EXP 	operation: autoDraw = False
+128.8389 	EXP 	operation_feedback: autoDraw = False
+128.8389 	EXP 	instructions_8: autoDraw = False
+128.8389 	EXP 	feedback_msg: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+128.8389 	EXP 	feedback_msg: height = 0.1
+128.8389 	EXP 	feedback_msg: height = 0.1
+128.8389 	EXP 	feedback_msg: height = 0.1
+128.8389 	EXP 	feedback_msg: text = 'Correct! \nScore = 60.0%'
+129.3282 	EXP 	feedback_msg: autoDraw = True
+130.3125 	EXP 	New trial (rep=0, index=12): {'Task': 'Practice', 'Trial': 1, 'Problem': '(1x2) + 1', 'Operation_answer': 3}
+130.3197 	EXP 	feedback_msg: autoDraw = False
+130.3197 	EXP 	feedback_msg: autoDraw = False
+130.3197 	EXP 	operation: height = 0.1
+130.3197 	EXP 	operation: height = 0.1
+130.3197 	EXP 	operation: height = 0.1
+130.3197 	EXP 	operation: text = '(1x2) + 1'
+130.3197 	EXP 	instructions_8: text = 'Answer?'
+130.8281 	EXP 	operation: autoDraw = True
+130.8281 	EXP 	operation_feedback: autoDraw = True
+130.8281 	EXP 	instructions_8: autoDraw = True
+135.6302 	DATA 	Keypress: 3
+135.6342 	EXP 	operation: autoDraw = False
+135.6342 	EXP 	operation_feedback: autoDraw = False
+135.6342 	EXP 	instructions_8: autoDraw = False
+135.6342 	EXP 	feedback_msg: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+135.6342 	EXP 	feedback_msg: height = 0.1
+135.6342 	EXP 	feedback_msg: height = 0.1
+135.6342 	EXP 	feedback_msg: height = 0.1
+135.6342 	EXP 	feedback_msg: text = 'Correct! \nScore = 66.7%'
+136.1226 	EXP 	feedback_msg: autoDraw = True
+137.1132 	EXP 	New trial (rep=0, index=13): {'Task': 'Practice', 'Trial': 4, 'Problem': '(4x4) - 14', 'Operation_answer': 2}
+137.1235 	EXP 	feedback_msg: autoDraw = False
+137.1235 	EXP 	feedback_msg: autoDraw = False
+137.1235 	EXP 	operation: height = 0.1
+137.1235 	EXP 	operation: height = 0.1
+137.1235 	EXP 	operation: height = 0.1
+137.1235 	EXP 	operation: text = '(4x4) - 14'
+137.1235 	EXP 	instructions_8: text = 'Answer?'
+137.6252 	EXP 	operation: autoDraw = True
+137.6252 	EXP 	operation_feedback: autoDraw = True
+137.6252 	EXP 	instructions_8: autoDraw = True
+139.9041 	DATA 	Keypress: 1
+139.9090 	EXP 	operation: autoDraw = False
+139.9090 	EXP 	operation_feedback: autoDraw = False
+139.9090 	EXP 	instructions_8: autoDraw = False
+139.9090 	EXP 	feedback_msg: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+139.9090 	EXP 	feedback_msg: height = 0.1
+139.9090 	EXP 	feedback_msg: height = 0.1
+139.9090 	EXP 	feedback_msg: height = 0.1
+139.9090 	EXP 	feedback_msg: text = 'Oops! That was wrong \nScore = 66.7%'
+139.9815 	DATA 	Keypress: 2
+140.3890 	EXP 	feedback_msg: autoDraw = True
+141.3801 	EXP 	New trial (rep=0, index=14): {'Task': 'Practice', 'Trial': 7, 'Problem': '(4x6) - 17', 'Operation_answer': 7}
+141.3892 	EXP 	feedback_msg: autoDraw = False
+141.3892 	EXP 	feedback_msg: autoDraw = False
+141.3892 	EXP 	operation: height = 0.1
+141.3892 	EXP 	operation: height = 0.1
+141.3892 	EXP 	operation: height = 0.1
+141.3892 	EXP 	operation: text = '(4x6) - 17'
+141.3892 	EXP 	instructions_8: text = 'Answer?'
+141.8924 	EXP 	operation: autoDraw = True
+141.8924 	EXP 	operation_feedback: autoDraw = True
+141.8924 	EXP 	instructions_8: autoDraw = True
+150.5969 	DATA 	Keypress: 7
+150.6014 	EXP 	operation: autoDraw = False
+150.6014 	EXP 	operation_feedback: autoDraw = False
+150.6014 	EXP 	instructions_8: autoDraw = False
+150.6014 	EXP 	feedback_msg: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+150.6014 	EXP 	feedback_msg: height = 0.1
+150.6014 	EXP 	feedback_msg: height = 0.1
+150.6014 	EXP 	feedback_msg: height = 0.1
+150.6014 	EXP 	feedback_msg: text = 'Correct! \nScore = 73.3%'
+151.0893 	EXP 	feedback_msg: autoDraw = True
+152.1032 	EXP 	feedback_msg: autoDraw = False
+152.1032 	EXP 	feedback_msg: autoDraw = False
+152.1032 	EXP 	feedback_msg_2: height = 0.1
+152.1032 	EXP 	feedback_msg_2: height = 0.1
+152.1032 	EXP 	feedback_msg_2: height = 0.1
+152.1032 	EXP 	feedback_msg_2: text = 'Congratulations, you answered correctly on above 65% of the trials. Press space to continue.'
+152.5892 	EXP 	feedback_msg_2: autoDraw = True
+155.7153 	DATA 	Keypress: space
+155.7202 	EXP 	feedback_msg_2: autoDraw = False
+156.2056 	EXP 	instructions_4: autoDraw = True
+200.9027 	EXP 	Created sequence: random, trialTypes=1, nReps=999, seed=None
+200.9085 	EXP 	New trial (rep=0, index=0): None
+200.9089 	EXP 	Created sequence: random, trialTypes=1, nReps=2, seed=None
+200.9091 	EXP 	New trial (rep=0, index=0): None
+200.9380 	EXP 	Imported ../materials/processing_only_2.xlsx as conditions, 15 conditions, 4 params
+200.9517 	EXP 	Created sequence: random, trialTypes=15, nReps=999, seed=None
+200.9568 	EXP 	New trial (rep=0, index=0): {'Task': 'Practice', 'Trial': 12, 'Problem': '(8/2) + 4', 'Operation_answer': 8}
+200.9706 	DATA 	Keypress: space
+200.9767 	EXP 	instructions_4: autoDraw = False
+200.9767 	EXP 	operation_3: height = 0.1
+200.9767 	EXP 	operation_3: height = 0.1
+200.9767 	EXP 	operation_3: height = 0.1
+200.9767 	EXP 	operation_3: text = '(8/2) + 4'
+200.9767 	EXP 	instructions_9: height = 0.1
+200.9767 	EXP 	instructions_9: height = 0.1
+200.9767 	EXP 	instructions_9: height = 0.1
+200.9767 	EXP 	instructions_9: text = 'Answer?'
+201.3811 	EXP 	operation_3: autoDraw = True
+201.3811 	EXP 	operation_feedback_2: autoDraw = True
+201.3811 	EXP 	instructions_9: autoDraw = True
+201.3811 	EXP 	operation_feedback_2: height = 0.1
+201.3811 	EXP 	operation_feedback_2: height = 0.1
+201.3811 	EXP 	operation_feedback_2: height = 0.1
+201.3811 	EXP 	operation_feedback_2: text = ''
+204.7295 	DATA 	Keypress: 6
+204.7336 	EXP 	operation_3: autoDraw = False
+204.7336 	EXP 	operation_feedback_2: autoDraw = False
+204.7336 	EXP 	instructions_9: autoDraw = False
+204.7336 	EXP 	feedback_msg_4: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+204.7336 	EXP 	feedback_msg_4: height = 0.1
+204.7336 	EXP 	feedback_msg_4: height = 0.1
+204.7336 	EXP 	feedback_msg_4: height = 0.1
+204.7336 	EXP 	feedback_msg_4: text = 'Oops! That was wrong \nScore = 0.0%'
+204.7336 	EXP 	operation_4: height = 0.1
+204.7336 	EXP 	operation_4: height = 0.1
+204.7336 	EXP 	operation_4: height = 0.1
+204.7336 	EXP 	operation_4: text = '(8/2) + 4'
+204.7336 	EXP 	feedback_msg_4: autoDraw = True
+204.7336 	EXP 	operation_4: autoDraw = True
+205.5234 	EXP 	New trial (rep=0, index=1): {'Task': 'Practice', 'Trial': 5, 'Problem': '(3/3) + 2', 'Operation_answer': 3}
+205.5442 	EXP 	feedback_msg_4: autoDraw = False
+205.5442 	EXP 	operation_4: autoDraw = False
+205.5442 	EXP 	feedback_msg_4: autoDraw = False
+205.5442 	EXP 	operation_4: autoDraw = False
+205.5442 	EXP 	operation_3: height = 0.1
+205.5442 	EXP 	operation_3: height = 0.1
+205.5442 	EXP 	operation_3: height = 0.1
+205.5442 	EXP 	operation_3: text = '(3/3) + 2'
+205.5442 	EXP 	instructions_9: text = 'Answer?'
+206.0238 	EXP 	operation_3: autoDraw = True
+206.0238 	EXP 	operation_feedback_2: autoDraw = True
+206.0238 	EXP 	instructions_9: autoDraw = True
+208.2804 	DATA 	Keypress: 3
+208.2847 	EXP 	operation_3: autoDraw = False
+208.2847 	EXP 	operation_feedback_2: autoDraw = False
+208.2847 	EXP 	instructions_9: autoDraw = False
+208.2847 	EXP 	feedback_msg_4: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+208.2847 	EXP 	feedback_msg_4: height = 0.1
+208.2847 	EXP 	feedback_msg_4: height = 0.1
+208.2847 	EXP 	feedback_msg_4: height = 0.1
+208.2847 	EXP 	feedback_msg_4: text = 'Correct! \nScore = 50.0%'
+208.2847 	EXP 	operation_4: height = 0.1
+208.2847 	EXP 	operation_4: height = 0.1
+208.2847 	EXP 	operation_4: height = 0.1
+208.2847 	EXP 	operation_4: text = '(3/3) + 2'
+208.2847 	EXP 	feedback_msg_4: autoDraw = True
+208.2847 	EXP 	operation_4: autoDraw = True
+209.0773 	EXP 	feedback_msg_4: autoDraw = False
+209.0773 	EXP 	operation_4: autoDraw = False
+209.0773 	EXP 	feedback_msg_4: autoDraw = False
+209.0773 	EXP 	operation_4: autoDraw = False
+209.0773 	EXP 	text_3: height = 0.2
+209.0773 	EXP 	text_3: height = 0.2
+209.0773 	EXP 	text_3: height = 0.2
+209.0773 	EXP 	text_3: text = 'V'
+209.5750 	EXP 	text_3: autoDraw = True
+210.3633 	EXP 	New trial (rep=1, index=0): None
+210.3801 	EXP 	Imported ../materials/processing_only_2.xlsx as conditions, 15 conditions, 4 params
+210.3909 	EXP 	Created sequence: random, trialTypes=15, nReps=999, seed=None
+210.3947 	EXP 	New trial (rep=0, index=0): {'Task': 'Practice', 'Trial': 6, 'Problem': '(2x6) - 8', 'Operation_answer': 4}
+210.4018 	EXP 	text_3: autoDraw = False
+210.4018 	EXP 	text_3: autoDraw = False
+210.4018 	EXP 	operation_3: height = 0.1
+210.4018 	EXP 	operation_3: height = 0.1
+210.4018 	EXP 	operation_3: height = 0.1
+210.4018 	EXP 	operation_3: text = '(2x6) - 8'
+210.4018 	EXP 	instructions_9: text = 'Answer?'
+210.8743 	EXP 	operation_3: autoDraw = True
+210.8743 	EXP 	operation_feedback_2: autoDraw = True
+210.8743 	EXP 	instructions_9: autoDraw = True
+214.5897 	DATA 	Keypress: 4
+214.5938 	EXP 	operation_3: autoDraw = False
+214.5938 	EXP 	operation_feedback_2: autoDraw = False
+214.5938 	EXP 	instructions_9: autoDraw = False
+214.5938 	EXP 	feedback_msg_4: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+214.5938 	EXP 	feedback_msg_4: height = 0.1
+214.5938 	EXP 	feedback_msg_4: height = 0.1
+214.5938 	EXP 	feedback_msg_4: height = 0.1
+214.5938 	EXP 	feedback_msg_4: text = 'Correct! \nScore = 66.7%'
+214.5938 	EXP 	operation_4: height = 0.1
+214.5938 	EXP 	operation_4: height = 0.1
+214.5938 	EXP 	operation_4: height = 0.1
+214.5938 	EXP 	operation_4: text = '(2x6) - 8'
+214.5938 	EXP 	feedback_msg_4: autoDraw = True
+214.5938 	EXP 	operation_4: autoDraw = True
+215.3853 	EXP 	feedback_msg_4: autoDraw = False
+215.3853 	EXP 	operation_4: autoDraw = False
+215.3853 	EXP 	feedback_msg_4: autoDraw = False
+215.3853 	EXP 	operation_4: autoDraw = False
+215.3853 	EXP 	text_3: height = 0.2
+215.3853 	EXP 	text_3: height = 0.2
+215.3853 	EXP 	text_3: height = 0.2
+215.3853 	EXP 	text_3: text = 'X'
+215.8807 	EXP 	text_3: autoDraw = True
+216.6774 	EXP 	text_3: autoDraw = False
+216.6774 	EXP 	text_3: autoDraw = False
+216.6774 	EXP 	instructions_6: height = 0.1
+216.6774 	EXP 	instructions_6: height = 0.1
+216.6774 	EXP 	instructions_6: height = 0.1
+216.6774 	EXP 	instructions_6: text = 'Answer and press enter.'
+217.1774 	EXP 	text_feedback_3: autoDraw = True
+217.1774 	EXP 	instructions_6: autoDraw = True
+217.1774 	EXP 	text_feedback_3: height = 0.15
+217.1774 	EXP 	text_feedback_3: height = 0.15
+217.1774 	EXP 	text_feedback_3: height = 0.15
+217.1774 	EXP 	text_feedback_3: text = ''
+220.0599 	DATA 	Keypress: v
+220.3562 	DATA 	Keypress: x
+222.9854 	DATA 	Keypress: return
+222.9898 	EXP 	text_feedback_3: autoDraw = False
+222.9898 	EXP 	instructions_6: autoDraw = False
+222.9898 	EXP 	feedback_msg_3: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+222.9898 	EXP 	feedback_msg_3: height = 0.1
+222.9898 	EXP 	feedback_msg_3: height = 0.1
+222.9898 	EXP 	feedback_msg_3: height = 0.1
+222.9898 	EXP 	feedback_msg_3: text = 'Correct'
+223.4770 	EXP 	feedback_msg_3: autoDraw = True
+224.4697 	EXP 	New trial (rep=1, index=0): None
+224.4709 	EXP 	Created sequence: random, trialTypes=1, nReps=2, seed=None
+224.4711 	EXP 	New trial (rep=0, index=0): None
+224.4845 	EXP 	Imported ../materials/processing_only_2.xlsx as conditions, 15 conditions, 4 params
+224.4936 	EXP 	Created sequence: random, trialTypes=15, nReps=999, seed=None
+224.4973 	EXP 	New trial (rep=0, index=0): {'Task': 'Practice', 'Trial': 10, 'Problem': '(8/4) + 3', 'Operation_answer': 5}
+224.5037 	EXP 	feedback_msg_3: autoDraw = False
+224.5037 	EXP 	feedback_msg_3: autoDraw = False
+224.5037 	EXP 	operation_3: height = 0.1
+224.5037 	EXP 	operation_3: height = 0.1
+224.5037 	EXP 	operation_3: height = 0.1
+224.5037 	EXP 	operation_3: text = '(8/4) + 3'
+224.5037 	EXP 	instructions_9: text = 'Answer?'
+224.9804 	EXP 	operation_3: autoDraw = True
+224.9804 	EXP 	operation_feedback_2: autoDraw = True
+224.9804 	EXP 	instructions_9: autoDraw = True
+227.3603 	DATA 	Keypress: 5
+227.3646 	EXP 	operation_3: autoDraw = False
+227.3646 	EXP 	operation_feedback_2: autoDraw = False
+227.3646 	EXP 	instructions_9: autoDraw = False
+227.3646 	EXP 	feedback_msg_4: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+227.3646 	EXP 	feedback_msg_4: height = 0.1
+227.3646 	EXP 	feedback_msg_4: height = 0.1
+227.3646 	EXP 	feedback_msg_4: height = 0.1
+227.3646 	EXP 	feedback_msg_4: text = 'Correct! \nScore = 75.0%'
+227.3646 	EXP 	operation_4: height = 0.1
+227.3646 	EXP 	operation_4: height = 0.1
+227.3646 	EXP 	operation_4: height = 0.1
+227.3646 	EXP 	operation_4: text = '(8/4) + 3'
+227.3646 	EXP 	feedback_msg_4: autoDraw = True
+227.3646 	EXP 	operation_4: autoDraw = True
+228.1612 	EXP 	feedback_msg_4: autoDraw = False
+228.1612 	EXP 	operation_4: autoDraw = False
+228.1612 	EXP 	feedback_msg_4: autoDraw = False
+228.1612 	EXP 	operation_4: autoDraw = False
+228.1612 	EXP 	text_3: height = 0.2
+228.1612 	EXP 	text_3: height = 0.2
+228.1612 	EXP 	text_3: height = 0.2
+228.1612 	EXP 	text_3: text = 'L'
+228.6451 	EXP 	text_3: autoDraw = True
+229.4289 	EXP 	New trial (rep=1, index=0): None
+229.4420 	EXP 	Imported ../materials/processing_only_2.xlsx as conditions, 15 conditions, 4 params
+229.4526 	EXP 	Created sequence: random, trialTypes=15, nReps=999, seed=None
+229.4563 	EXP 	New trial (rep=0, index=0): {'Task': 'Practice', 'Trial': 14, 'Problem': '(6/3) + 4 ', 'Operation_answer': 6}
+229.4628 	EXP 	text_3: autoDraw = False
+229.4628 	EXP 	text_3: autoDraw = False
+229.4628 	EXP 	operation_3: height = 0.1
+229.4628 	EXP 	operation_3: height = 0.1
+229.4628 	EXP 	operation_3: height = 0.1
+229.4628 	EXP 	operation_3: text = '(6/3) + 4 '
+229.4628 	EXP 	instructions_9: text = 'Answer?'
+229.9471 	EXP 	operation_3: autoDraw = True
+229.9471 	EXP 	operation_feedback_2: autoDraw = True
+229.9471 	EXP 	instructions_9: autoDraw = True
+233.1407 	DATA 	Keypress: 6
+233.1448 	EXP 	operation_3: autoDraw = False
+233.1448 	EXP 	operation_feedback_2: autoDraw = False
+233.1448 	EXP 	instructions_9: autoDraw = False
+233.1448 	EXP 	feedback_msg_4: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+233.1448 	EXP 	feedback_msg_4: height = 0.1
+233.1448 	EXP 	feedback_msg_4: height = 0.1
+233.1448 	EXP 	feedback_msg_4: height = 0.1
+233.1448 	EXP 	feedback_msg_4: text = 'Correct! \nScore = 80.0%'
+233.1448 	EXP 	operation_4: height = 0.1
+233.1448 	EXP 	operation_4: height = 0.1
+233.1448 	EXP 	operation_4: height = 0.1
+233.1448 	EXP 	operation_4: text = '(6/3) + 4 '
+233.1448 	EXP 	feedback_msg_4: autoDraw = True
+233.1448 	EXP 	operation_4: autoDraw = True
+233.9383 	EXP 	feedback_msg_4: autoDraw = False
+233.9383 	EXP 	operation_4: autoDraw = False
+233.9383 	EXP 	feedback_msg_4: autoDraw = False
+233.9383 	EXP 	operation_4: autoDraw = False
+233.9383 	EXP 	text_3: height = 0.2
+233.9383 	EXP 	text_3: height = 0.2
+233.9383 	EXP 	text_3: height = 0.2
+233.9383 	EXP 	text_3: text = 'Z'
+234.4271 	EXP 	text_3: autoDraw = True
+235.2164 	EXP 	text_3: autoDraw = False
+235.2164 	EXP 	text_3: autoDraw = False
+235.2164 	EXP 	instructions_6: text = 'Answer and press enter.'
+235.7281 	EXP 	text_feedback_3: autoDraw = True
+235.7281 	EXP 	instructions_6: autoDraw = True
+237.1988 	DATA 	Keypress: l
+237.6886 	DATA 	Keypress: z
+238.5631 	DATA 	Keypress: return
+238.5676 	EXP 	text_feedback_3: autoDraw = False
+238.5676 	EXP 	instructions_6: autoDraw = False
+238.5676 	EXP 	feedback_msg_3: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+238.5676 	EXP 	feedback_msg_3: text = 'Correct'
+239.0523 	EXP 	feedback_msg_3: autoDraw = True
+240.0422 	EXP 	New trial (rep=2, index=0): None
+240.0427 	EXP 	Created sequence: random, trialTypes=1, nReps=2, seed=None
+240.0429 	EXP 	New trial (rep=0, index=0): None
+240.0540 	EXP 	Imported ../materials/processing_only_2.xlsx as conditions, 15 conditions, 4 params
+240.0637 	EXP 	Created sequence: random, trialTypes=15, nReps=999, seed=None
+240.0675 	EXP 	New trial (rep=0, index=0): {'Task': 'Practice', 'Trial': 4, 'Problem': '(4x4) - 14', 'Operation_answer': 2}
+240.0751 	EXP 	feedback_msg_3: autoDraw = False
+240.0751 	EXP 	feedback_msg_3: autoDraw = False
+240.0751 	EXP 	operation_3: height = 0.1
+240.0751 	EXP 	operation_3: height = 0.1
+240.0751 	EXP 	operation_3: height = 0.1
+240.0751 	EXP 	operation_3: text = '(4x4) - 14'
+240.0751 	EXP 	instructions_9: text = 'Answer?'
+240.5572 	EXP 	operation_3: autoDraw = True
+240.5572 	EXP 	operation_feedback_2: autoDraw = True
+240.5572 	EXP 	instructions_9: autoDraw = True
+242.8349 	DATA 	Keypress: 2
+242.8389 	EXP 	operation_3: autoDraw = False
+242.8389 	EXP 	operation_feedback_2: autoDraw = False
+242.8389 	EXP 	instructions_9: autoDraw = False
+242.8389 	EXP 	feedback_msg_4: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+242.8389 	EXP 	feedback_msg_4: height = 0.1
+242.8389 	EXP 	feedback_msg_4: height = 0.1
+242.8389 	EXP 	feedback_msg_4: height = 0.1
+242.8389 	EXP 	feedback_msg_4: text = 'Correct! \nScore = 83.3%'
+242.8389 	EXP 	operation_4: height = 0.1
+242.8389 	EXP 	operation_4: height = 0.1
+242.8389 	EXP 	operation_4: height = 0.1
+242.8389 	EXP 	operation_4: text = '(4x4) - 14'
+242.8389 	EXP 	feedback_msg_4: autoDraw = True
+242.8389 	EXP 	operation_4: autoDraw = True
+243.6342 	EXP 	feedback_msg_4: autoDraw = False
+243.6342 	EXP 	operation_4: autoDraw = False
+243.6342 	EXP 	text_3: height = 0.2
+243.6342 	EXP 	text_3: height = 0.2
+243.6342 	EXP 	text_3: height = 0.2
+243.6342 	EXP 	text_3: text = 'R'
+244.1204 	EXP 	text_3: autoDraw = True
+244.9121 	EXP 	New trial (rep=1, index=0): None
+244.9234 	EXP 	Imported ../materials/processing_only_2.xlsx as conditions, 15 conditions, 4 params
+244.9340 	EXP 	Created sequence: random, trialTypes=15, nReps=999, seed=None
+244.9377 	EXP 	New trial (rep=0, index=0): {'Task': 'Practice', 'Trial': 15, 'Problem': '(9/3) - 2', 'Operation_answer': 1}
+244.9447 	EXP 	text_3: autoDraw = False
+244.9447 	EXP 	text_3: autoDraw = False
+244.9447 	EXP 	operation_3: height = 0.1
+244.9447 	EXP 	operation_3: height = 0.1
+244.9447 	EXP 	operation_3: height = 0.1
+244.9447 	EXP 	operation_3: text = '(9/3) - 2'
+244.9447 	EXP 	instructions_9: text = 'Answer?'
+245.4239 	EXP 	operation_3: autoDraw = True
+245.4239 	EXP 	operation_feedback_2: autoDraw = True
+245.4239 	EXP 	instructions_9: autoDraw = True
+253.2453 	EXP 	operation_3: autoDraw = False
+253.2453 	EXP 	operation_feedback_2: autoDraw = False
+253.2453 	EXP 	instructions_9: autoDraw = False
+253.2453 	EXP 	operation_3: autoDraw = False
+253.2453 	EXP 	operation_feedback_2: autoDraw = False
+253.2453 	EXP 	instructions_9: autoDraw = False
+253.2453 	EXP 	feedback_msg_4: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+253.2453 	EXP 	feedback_msg_4: height = 0.1
+253.2453 	EXP 	feedback_msg_4: height = 0.1
+253.2453 	EXP 	feedback_msg_4: height = 0.1
+253.2453 	EXP 	feedback_msg_4: text = 'Be faster! \nScore = 71.4%'
+253.2453 	EXP 	operation_4: height = 0.1
+253.2453 	EXP 	operation_4: height = 0.1
+253.2453 	EXP 	operation_4: height = 0.1
+253.2453 	EXP 	operation_4: text = '(9/3) - 2'
+253.2453 	EXP 	feedback_msg_4: autoDraw = True
+253.2453 	EXP 	operation_4: autoDraw = True
+254.0373 	EXP 	New trial (rep=0, index=1): {'Task': 'Practice', 'Trial': 6, 'Problem': '(2x6) - 8', 'Operation_answer': 4}
+254.0454 	EXP 	feedback_msg_4: autoDraw = False
+254.0454 	EXP 	operation_4: autoDraw = False
+254.0454 	EXP 	operation_3: height = 0.1
+254.0454 	EXP 	operation_3: height = 0.1
+254.0454 	EXP 	operation_3: height = 0.1
+254.0454 	EXP 	operation_3: text = '(2x6) - 8'
+254.0454 	EXP 	instructions_9: text = 'Answer?'
+254.5287 	EXP 	operation_3: autoDraw = True
+254.5287 	EXP 	operation_feedback_2: autoDraw = True
+254.5287 	EXP 	instructions_9: autoDraw = True
+258.5055 	DATA 	Keypress: 4
+258.5095 	EXP 	operation_3: autoDraw = False
+258.5095 	EXP 	operation_feedback_2: autoDraw = False
+258.5095 	EXP 	instructions_9: autoDraw = False
+258.5095 	EXP 	feedback_msg_4: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+258.5095 	EXP 	feedback_msg_4: height = 0.1
+258.5095 	EXP 	feedback_msg_4: height = 0.1
+258.5095 	EXP 	feedback_msg_4: height = 0.1
+258.5095 	EXP 	feedback_msg_4: text = 'Correct! \nScore = 75.0%'
+258.5095 	EXP 	operation_4: height = 0.1
+258.5095 	EXP 	operation_4: height = 0.1
+258.5095 	EXP 	operation_4: height = 0.1
+258.5095 	EXP 	operation_4: text = '(2x6) - 8'
+258.5095 	EXP 	feedback_msg_4: autoDraw = True
+258.5095 	EXP 	operation_4: autoDraw = True
+259.3010 	EXP 	feedback_msg_4: autoDraw = False
+259.3010 	EXP 	operation_4: autoDraw = False
+259.3010 	EXP 	text_3: height = 0.2
+259.3010 	EXP 	text_3: height = 0.2
+259.3010 	EXP 	text_3: height = 0.2
+259.3010 	EXP 	text_3: text = 'Z'
+259.7871 	EXP 	text_3: autoDraw = True
+260.5838 	EXP 	text_3: autoDraw = False
+260.5838 	EXP 	text_3: autoDraw = False
+260.5838 	EXP 	instructions_6: text = 'Answer and press enter.'
+261.0893 	EXP 	text_feedback_3: autoDraw = True
+261.0893 	EXP 	instructions_6: autoDraw = True
+262.4138 	DATA 	Keypress: x
+262.5886 	DATA 	Keypress: z
+264.1323 	DATA 	Keypress: return
+264.1372 	EXP 	text_feedback_3: autoDraw = False
+264.1372 	EXP 	instructions_6: autoDraw = False
+264.1372 	EXP 	feedback_msg_3: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+264.1372 	EXP 	feedback_msg_3: height = 0.1
+264.1372 	EXP 	feedback_msg_3: height = 0.1
+264.1372 	EXP 	feedback_msg_3: height = 0.1
+264.1372 	EXP 	feedback_msg_3: text = 'Incorrect'
+264.6205 	EXP 	feedback_msg_3: autoDraw = True
+265.6167 	EXP 	New trial (rep=3, index=0): None
+265.6174 	EXP 	Created sequence: random, trialTypes=1, nReps=2, seed=None
+265.6176 	EXP 	New trial (rep=0, index=0): None
+265.6292 	EXP 	Imported ../materials/processing_only_2.xlsx as conditions, 15 conditions, 4 params
+265.6384 	EXP 	Created sequence: random, trialTypes=15, nReps=999, seed=None
+265.6420 	EXP 	New trial (rep=0, index=0): {'Task': 'Practice', 'Trial': 14, 'Problem': '(6/3) + 4 ', 'Operation_answer': 6}
+265.6483 	EXP 	feedback_msg_3: autoDraw = False
+265.6483 	EXP 	feedback_msg_3: autoDraw = False
+265.6483 	EXP 	operation_3: height = 0.1
+265.6483 	EXP 	operation_3: height = 0.1
+265.6483 	EXP 	operation_3: height = 0.1
+265.6483 	EXP 	operation_3: text = '(6/3) + 4 '
+265.6483 	EXP 	instructions_9: text = 'Answer?'
+266.1235 	EXP 	operation_3: autoDraw = True
+266.1235 	EXP 	operation_feedback_2: autoDraw = True
+266.1235 	EXP 	instructions_9: autoDraw = True
+268.6185 	DATA 	Keypress: 6
+268.6225 	EXP 	operation_3: autoDraw = False
+268.6225 	EXP 	operation_feedback_2: autoDraw = False
+268.6225 	EXP 	instructions_9: autoDraw = False
+268.6225 	EXP 	feedback_msg_4: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+268.6225 	EXP 	feedback_msg_4: height = 0.1
+268.6225 	EXP 	feedback_msg_4: height = 0.1
+268.6225 	EXP 	feedback_msg_4: height = 0.1
+268.6225 	EXP 	feedback_msg_4: text = 'Correct! \nScore = 77.8%'
+268.6225 	EXP 	operation_4: height = 0.1
+268.6225 	EXP 	operation_4: height = 0.1
+268.6225 	EXP 	operation_4: height = 0.1
+268.6225 	EXP 	operation_4: text = '(6/3) + 4 '
+268.6225 	EXP 	feedback_msg_4: autoDraw = True
+268.6225 	EXP 	operation_4: autoDraw = True
+269.4160 	EXP 	feedback_msg_4: autoDraw = False
+269.4160 	EXP 	operation_4: autoDraw = False
+269.4160 	EXP 	text_3: height = 0.2
+269.4160 	EXP 	text_3: height = 0.2
+269.4160 	EXP 	text_3: height = 0.2
+269.4160 	EXP 	text_3: text = 'H'
+269.9031 	EXP 	text_3: autoDraw = True
+270.6952 	EXP 	New trial (rep=1, index=0): None
+270.7063 	EXP 	Imported ../materials/processing_only_2.xlsx as conditions, 15 conditions, 4 params
+270.7172 	EXP 	Created sequence: random, trialTypes=15, nReps=999, seed=None
+270.7210 	EXP 	New trial (rep=0, index=0): {'Task': 'Practice', 'Trial': 9, 'Problem': '(4/2) + 5', 'Operation_answer': 7}
+270.7277 	EXP 	text_3: autoDraw = False
+270.7277 	EXP 	text_3: autoDraw = False
+270.7277 	EXP 	operation_3: height = 0.1
+270.7277 	EXP 	operation_3: height = 0.1
+270.7277 	EXP 	operation_3: height = 0.1
+270.7277 	EXP 	operation_3: text = '(4/2) + 5'
+270.7277 	EXP 	instructions_9: text = 'Answer?'
+271.2071 	EXP 	operation_3: autoDraw = True
+271.2071 	EXP 	operation_feedback_2: autoDraw = True
+271.2071 	EXP 	instructions_9: autoDraw = True
+273.6010 	DATA 	Keypress: 7
+273.6050 	EXP 	operation_3: autoDraw = False
+273.6050 	EXP 	operation_feedback_2: autoDraw = False
+273.6050 	EXP 	instructions_9: autoDraw = False
+273.6050 	EXP 	feedback_msg_4: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+273.6050 	EXP 	feedback_msg_4: height = 0.1
+273.6050 	EXP 	feedback_msg_4: height = 0.1
+273.6050 	EXP 	feedback_msg_4: height = 0.1
+273.6050 	EXP 	feedback_msg_4: text = 'Correct! \nScore = 80.0%'
+273.6050 	EXP 	operation_4: height = 0.1
+273.6050 	EXP 	operation_4: height = 0.1
+273.6050 	EXP 	operation_4: height = 0.1
+273.6050 	EXP 	operation_4: text = '(4/2) + 5'
+273.6050 	EXP 	feedback_msg_4: autoDraw = True
+273.6050 	EXP 	operation_4: autoDraw = True
+274.3998 	EXP 	feedback_msg_4: autoDraw = False
+274.3998 	EXP 	operation_4: autoDraw = False
+274.3998 	EXP 	text_3: height = 0.2
+274.3998 	EXP 	text_3: height = 0.2
+274.3998 	EXP 	text_3: height = 0.2
+274.3998 	EXP 	text_3: text = 'N'
+274.8866 	EXP 	text_3: autoDraw = True
+275.6839 	EXP 	text_3: autoDraw = False
+275.6839 	EXP 	text_3: autoDraw = False
+275.6839 	EXP 	instructions_6: text = 'Answer and press enter.'
+276.1885 	EXP 	text_feedback_3: autoDraw = True
+276.1885 	EXP 	instructions_6: autoDraw = True
+277.0660 	DATA 	Keypress: h
+277.2482 	DATA 	Keypress: n
+277.9389 	DATA 	Keypress: bracketright
+278.3482 	DATA 	Keypress: return
+278.3530 	EXP 	text_feedback_3: autoDraw = False
+278.3530 	EXP 	instructions_6: autoDraw = False
+278.3530 	EXP 	feedback_msg_3: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+278.3530 	EXP 	feedback_msg_3: height = 0.1
+278.3530 	EXP 	feedback_msg_3: height = 0.1
+278.3530 	EXP 	feedback_msg_3: height = 0.1
+278.3530 	EXP 	feedback_msg_3: text = 'Correct'
+278.8365 	EXP 	feedback_msg_3: autoDraw = True
+279.8343 	EXP 	New trial (rep=4, index=0): None
+279.8349 	EXP 	Created sequence: random, trialTypes=1, nReps=2, seed=None
+279.8350 	EXP 	New trial (rep=0, index=0): None
+279.8448 	EXP 	Imported ../materials/processing_only_2.xlsx as conditions, 15 conditions, 4 params
+279.8548 	EXP 	Created sequence: random, trialTypes=15, nReps=999, seed=None
+279.8585 	EXP 	New trial (rep=0, index=0): {'Task': 'Practice', 'Trial': 3, 'Problem': '(7x2) - 5', 'Operation_answer': 9}
+279.8648 	EXP 	feedback_msg_3: autoDraw = False
+279.8648 	EXP 	feedback_msg_3: autoDraw = False
+279.8648 	EXP 	operation_3: height = 0.1
+279.8648 	EXP 	operation_3: height = 0.1
+279.8648 	EXP 	operation_3: height = 0.1
+279.8648 	EXP 	operation_3: text = '(7x2) - 5'
+279.8648 	EXP 	instructions_9: text = 'Answer?'
+280.3403 	EXP 	operation_3: autoDraw = True
+280.3403 	EXP 	operation_feedback_2: autoDraw = True
+280.3403 	EXP 	instructions_9: autoDraw = True
+282.4171 	DATA 	Keypress: 9
+282.4211 	EXP 	operation_3: autoDraw = False
+282.4211 	EXP 	operation_feedback_2: autoDraw = False
+282.4211 	EXP 	instructions_9: autoDraw = False
+282.4211 	EXP 	feedback_msg_4: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+282.4211 	EXP 	feedback_msg_4: height = 0.1
+282.4211 	EXP 	feedback_msg_4: height = 0.1
+282.4211 	EXP 	feedback_msg_4: height = 0.1
+282.4211 	EXP 	feedback_msg_4: text = 'Correct! \nScore = 81.8%'
+282.4211 	EXP 	operation_4: height = 0.1
+282.4211 	EXP 	operation_4: height = 0.1
+282.4211 	EXP 	operation_4: height = 0.1
+282.4211 	EXP 	operation_4: text = '(7x2) - 5'
+282.4211 	EXP 	feedback_msg_4: autoDraw = True
+282.4211 	EXP 	operation_4: autoDraw = True
+283.2184 	EXP 	feedback_msg_4: autoDraw = False
+283.2184 	EXP 	operation_4: autoDraw = False
+283.2184 	EXP 	text_3: height = 0.2
+283.2184 	EXP 	text_3: height = 0.2
+283.2184 	EXP 	text_3: height = 0.2
+283.2184 	EXP 	text_3: text = 'X'
+283.7030 	EXP 	text_3: autoDraw = True
+284.4953 	EXP 	New trial (rep=1, index=0): None
+284.5059 	EXP 	Imported ../materials/processing_only_2.xlsx as conditions, 15 conditions, 4 params
+284.5170 	EXP 	Created sequence: random, trialTypes=15, nReps=999, seed=None
+284.5208 	EXP 	New trial (rep=0, index=0): {'Task': 'Practice', 'Trial': 11, 'Problem': '(5x3) - 7', 'Operation_answer': 8}
+284.5272 	EXP 	text_3: autoDraw = False
+284.5272 	EXP 	text_3: autoDraw = False
+284.5272 	EXP 	operation_3: height = 0.1
+284.5272 	EXP 	operation_3: height = 0.1
+284.5272 	EXP 	operation_3: height = 0.1
+284.5272 	EXP 	operation_3: text = '(5x3) - 7'
+284.5272 	EXP 	instructions_9: text = 'Answer?'
+285.0065 	EXP 	operation_3: autoDraw = True
+285.0065 	EXP 	operation_feedback_2: autoDraw = True
+285.0065 	EXP 	instructions_9: autoDraw = True
+289.7499 	DATA 	Keypress: 8
+289.7540 	EXP 	operation_3: autoDraw = False
+289.7540 	EXP 	operation_feedback_2: autoDraw = False
+289.7540 	EXP 	instructions_9: autoDraw = False
+289.7540 	EXP 	feedback_msg_4: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+289.7540 	EXP 	feedback_msg_4: height = 0.1
+289.7540 	EXP 	feedback_msg_4: height = 0.1
+289.7540 	EXP 	feedback_msg_4: height = 0.1
+289.7540 	EXP 	feedback_msg_4: text = 'Correct! \nScore = 83.3%'
+289.7540 	EXP 	operation_4: height = 0.1
+289.7540 	EXP 	operation_4: height = 0.1
+289.7540 	EXP 	operation_4: height = 0.1
+289.7540 	EXP 	operation_4: text = '(5x3) - 7'
+289.7540 	EXP 	feedback_msg_4: autoDraw = True
+289.7540 	EXP 	operation_4: autoDraw = True
+290.5508 	EXP 	feedback_msg_4: autoDraw = False
+290.5508 	EXP 	operation_4: autoDraw = False
+290.5508 	EXP 	text_3: height = 0.2
+290.5508 	EXP 	text_3: height = 0.2
+290.5508 	EXP 	text_3: height = 0.2
+290.5508 	EXP 	text_3: text = 'H'
+291.0355 	EXP 	text_3: autoDraw = True
+291.8323 	EXP 	text_3: autoDraw = False
+291.8323 	EXP 	text_3: autoDraw = False
+291.8323 	EXP 	instructions_6: text = 'Answer and press enter.'
+292.3386 	EXP 	text_feedback_3: autoDraw = True
+292.3386 	EXP 	instructions_6: autoDraw = True
+293.9484 	DATA 	Keypress: x
+294.4053 	DATA 	Keypress: h
+296.6805 	DATA 	Keypress: return
+296.6854 	EXP 	text_feedback_3: autoDraw = False
+296.6854 	EXP 	instructions_6: autoDraw = False
+296.6854 	EXP 	feedback_msg_3: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+296.6854 	EXP 	feedback_msg_3: text = 'Correct'
+297.1691 	EXP 	feedback_msg_3: autoDraw = True
+298.1698 	EXP 	New trial (rep=5, index=0): None
+298.1703 	EXP 	Created sequence: random, trialTypes=1, nReps=2, seed=None
+298.1704 	EXP 	New trial (rep=0, index=0): None
+298.1815 	EXP 	Imported ../materials/processing_only_2.xlsx as conditions, 15 conditions, 4 params
+298.1905 	EXP 	Created sequence: random, trialTypes=15, nReps=999, seed=None
+298.1942 	EXP 	New trial (rep=0, index=0): {'Task': 'Practice', 'Trial': 5, 'Problem': '(3/3) + 2', 'Operation_answer': 3}
+298.2003 	EXP 	feedback_msg_3: autoDraw = False
+298.2003 	EXP 	feedback_msg_3: autoDraw = False
+298.2003 	EXP 	operation_3: height = 0.1
+298.2003 	EXP 	operation_3: height = 0.1
+298.2003 	EXP 	operation_3: height = 0.1
+298.2003 	EXP 	operation_3: text = '(3/3) + 2'
+298.2003 	EXP 	instructions_9: text = 'Answer?'
+298.6733 	EXP 	operation_3: autoDraw = True
+298.6733 	EXP 	operation_feedback_2: autoDraw = True
+298.6733 	EXP 	instructions_9: autoDraw = True
+300.3691 	DATA 	Keypress: 3
+300.3734 	EXP 	operation_3: autoDraw = False
+300.3734 	EXP 	operation_feedback_2: autoDraw = False
+300.3734 	EXP 	instructions_9: autoDraw = False
+300.3734 	EXP 	feedback_msg_4: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+300.3734 	EXP 	feedback_msg_4: height = 0.1
+300.3734 	EXP 	feedback_msg_4: height = 0.1
+300.3734 	EXP 	feedback_msg_4: height = 0.1
+300.3734 	EXP 	feedback_msg_4: text = 'Correct! \nScore = 84.6%'
+300.3734 	EXP 	operation_4: height = 0.1
+300.3734 	EXP 	operation_4: height = 0.1
+300.3734 	EXP 	operation_4: height = 0.1
+300.3734 	EXP 	operation_4: text = '(3/3) + 2'
+300.3734 	EXP 	feedback_msg_4: autoDraw = True
+300.3734 	EXP 	operation_4: autoDraw = True
+301.1676 	EXP 	feedback_msg_4: autoDraw = False
+301.1676 	EXP 	operation_4: autoDraw = False
+301.1676 	EXP 	text_3: height = 0.2
+301.1676 	EXP 	text_3: height = 0.2
+301.1676 	EXP 	text_3: height = 0.2
+301.1676 	EXP 	text_3: text = 'N'
+301.6524 	EXP 	text_3: autoDraw = True
+302.4449 	EXP 	New trial (rep=1, index=0): None
+302.4553 	EXP 	Imported ../materials/processing_only_2.xlsx as conditions, 15 conditions, 4 params
+302.4669 	EXP 	Created sequence: random, trialTypes=15, nReps=999, seed=None
+302.4707 	EXP 	New trial (rep=0, index=0): {'Task': 'Practice', 'Trial': 4, 'Problem': '(4x4) - 14', 'Operation_answer': 2}
+302.4772 	EXP 	text_3: autoDraw = False
+302.4772 	EXP 	text_3: autoDraw = False
+302.4772 	EXP 	operation_3: height = 0.1
+302.4772 	EXP 	operation_3: height = 0.1
+302.4772 	EXP 	operation_3: height = 0.1
+302.4772 	EXP 	operation_3: text = '(4x4) - 14'
+302.4772 	EXP 	instructions_9: text = 'Answer?'
+302.9554 	EXP 	operation_3: autoDraw = True
+302.9554 	EXP 	operation_feedback_2: autoDraw = True
+302.9554 	EXP 	instructions_9: autoDraw = True
+305.3163 	DATA 	Keypress: 2
+305.3202 	EXP 	operation_3: autoDraw = False
+305.3202 	EXP 	operation_feedback_2: autoDraw = False
+305.3202 	EXP 	instructions_9: autoDraw = False
+305.3202 	EXP 	feedback_msg_4: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+305.3202 	EXP 	feedback_msg_4: height = 0.1
+305.3202 	EXP 	feedback_msg_4: height = 0.1
+305.3202 	EXP 	feedback_msg_4: height = 0.1
+305.3202 	EXP 	feedback_msg_4: text = 'Correct! \nScore = 85.7%'
+305.3202 	EXP 	operation_4: height = 0.1
+305.3202 	EXP 	operation_4: height = 0.1
+305.3202 	EXP 	operation_4: height = 0.1
+305.3202 	EXP 	operation_4: text = '(4x4) - 14'
+305.3202 	EXP 	feedback_msg_4: autoDraw = True
+305.3202 	EXP 	operation_4: autoDraw = True
+306.1171 	EXP 	feedback_msg_4: autoDraw = False
+306.1171 	EXP 	operation_4: autoDraw = False
+306.1171 	EXP 	text_3: height = 0.2
+306.1171 	EXP 	text_3: height = 0.2
+306.1171 	EXP 	text_3: height = 0.2
+306.1171 	EXP 	text_3: text = 'K'
+306.6019 	EXP 	text_3: autoDraw = True
+307.4000 	EXP 	text_3: autoDraw = False
+307.4000 	EXP 	text_3: autoDraw = False
+307.4000 	EXP 	instructions_6: text = 'Answer and press enter.'
+307.9051 	EXP 	text_feedback_3: autoDraw = True
+307.9051 	EXP 	instructions_6: autoDraw = True
+308.6377 	DATA 	Keypress: n
+308.9308 	DATA 	Keypress: k
+309.3123 	DATA 	Keypress: return
+309.3165 	EXP 	text_feedback_3: autoDraw = False
+309.3165 	EXP 	instructions_6: autoDraw = False
+309.3165 	EXP 	feedback_msg_3: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+309.3165 	EXP 	feedback_msg_3: text = 'Correct'
+309.8020 	EXP 	feedback_msg_3: autoDraw = True
+310.8002 	EXP 	feedback_msg_3: autoDraw = False
+310.8002 	EXP 	feedback_msg_3: autoDraw = False
+311.3038 	EXP 	instructions_7: autoDraw = True
+382.3181 	DATA 	Keypress: escape
+382.3270 	EXP 	test_final: status = STOPPED
+382.3312 	EXP 	instructions_7: autoDraw = False
+382.3312 	EXP 	test_final: status = STOPPED
+383.1736 	EXP 	window1: mouseVisible = True
